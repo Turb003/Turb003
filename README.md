@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Dening Zhang
-- 👀 I’m interested in hoops, hiling, camping and play with my Dog!
+- 👀 I’m interested in basketball, hiking, camping and play with my Dog!
 - 🌱 I’m currently learning React, AWS, C# & leetcode
-- 💞️ I’m looking to collaborate on Team Beachhack2023 as a alert app developer.
+- 🌱 Check out our senior project! Hands off-control with the computer interfaces!
+- 💞️ I’m looking forward to collaborate on Team Beachhack2023 as a alert app developer.
 - 📫 How to reach me dening.zhang@student.csulb.edu
 
 <!---
