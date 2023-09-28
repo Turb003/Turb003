@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to collaborate on Team Beachhack2023 as a alert app developer.
 - 🌱 The Group project of budget Webapp based on TypeScript and MongoDB is coming up this Spring as well!
 - 🌱 I’m currently learning React, AWS, C# & leetcode
-- 📫 How to reach me dening.zhang@student.csulb.edu
+- 📫 How to reach me dening.zhang@student.csulb.edu / deningzh@usc.edu
 
 <!---
 Turb003/Turb003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
