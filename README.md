@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dening Zhang
-- 👀 I’m interested in basketball, hiking, camping and play with my Dog!
+- 👋 Hi, I’m Dening(Daniel) Zhang, a First-year Current Graduate Student with a Computer Science Major at USC
+- 👀 I’m interested in basketball, hiking, camping and playing with my Dog!
 - 🌱 Check out our senior project! Hands off-control with the computer interfaces!
 - 💞️ I’m looking forward to collaborate on Team Beachhack2023 as a alert app developer.
 - 🌱 The Group project of budget Webapp based on TypeScript and MongoDB is coming up this Spring as well!
