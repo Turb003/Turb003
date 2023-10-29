@@ -4,7 +4,7 @@
 - 🌱 The Group project of a budget Web app based on TypeScript and MongoDB is coming up this Spring as well!
 - 🌱 I’m currently learning React, AWS, C# & leetcode
 - 👀 I’m interested in basketball, hiking, camping, and playing with my Dog!
-- 📫 How to reach me dening.zhang@student.csulb.edu / deningzh@usc.edu
+- 📫 How to reach me?   deningzh@usc.edu / dening.zhang@student.csulb.edu 
 
 <!---
 Turb003/Turb003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
