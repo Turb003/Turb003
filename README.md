@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dening(Daniel) Zhang, a First-year Graduate Student with a Computer Science Major at USC
+- 👋 Hi, I’m Dening(Daniel) Zhang, a First-year MS.CS Graduate Student at USC
+- 🌱 I’m currently fast_tracking the Professional back-end developer certificate from Meta which is normally takes 8 months, but my goal is one and half month.
 - 🌱 Check out our senior project in CSULB! Hands-off-control with the computer interfaces!
-- 💞️ I’m looking forward to collaborating on Team Beachhack2023 as an alert app developer.
-- 🌱 The Group project of a budget Web app based on TypeScript and MongoDB is coming up this Spring as well!
-- 🌱 I’m currently learning React, AWS, C# & leetcode
+- 💞️ An alert web app developer in Team Beachhack2023.
+- 🌱 The class project of a budget Web app based on TypeScript and MongoDB is lauced in 2023 Spring AS WELL!
 - 👀 I’m interested in basketball, hiking, camping, and playing with my Dog!
 - 📫 How to reach me?   deningzh@usc.edu / dening.zhang@student.csulb.edu 
 
