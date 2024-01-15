@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dening(Daniel) Zhang, a First-year MS.CS Graduate Student at USC
+- 👋 Hi, I’m Dening(Daniel) Zhang, a First-year MS.CS Student at USC
 - 🌱 I’m currently fast_tracking the Professional back-end developer certificate from Meta which is normally takes 8 months, but my goal is one and half month.
 - 🌱 Check out our senior project in CSULB! Hands-off-control with the computer interfaces!
 - 💞️ An alert web app developer in Team Beachhack2023.
