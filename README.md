@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Dening Zhang, a First-year MS.CS Student at USC
+- 🌱 Studying CSCS-571 as the full stack web app developer on web and ios side. also using mongoDB to rectriving user's data and deployed the app in AWS cloud service!
 - 🌱 Check out our senior project in CSULB! Hands-off-control with the computer interfaces!
 - 💞️ An alert web app developer in Team Beachhack2023.
-- 🌱 The class project of a budget Web app based on TypeScript and MongoDB is lauced in 2023 Spring AS WELL!
 - 👀 I’m interested in basketball, hiking, camping, and playing with my Dog!
 - 📫 How to reach me?   deningzh@usc.edu / dening.zhang@student.csulb.edu 
 
