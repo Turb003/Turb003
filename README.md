@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Dening Zhang, a First-year MS.CS Student at USC
+- 👋 Hi, I’m Daniel Dening Cheung, a First-year MS.CS Student at USC
 - 🌱 Studying CSCS-571 as the full stack web app developer on web and ios side. also using mongoDB to rectriving user's data and deployed the app in AWS cloud service!
 - 🌱 Check out our senior project in CSULB! Hands-off-control with the computer interfaces!
 - 💞️ An alert web app developer in Team Beachhack2023.
