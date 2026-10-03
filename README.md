@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Cheung, MS.CS Student at USC (Gap/dropout)
+- 👋 Hi, I’m Daniel Cheung, MS.CS Student at USC & a U.S. Army Officer 20276
 - 🌱 founder of Luvidia.com / pinnova build inc
 - 🌱 Check out our senior project in CSULB! Hands-off-control with the computer interfaces!
 - 💞️ An alert web app developer in Team Beachhack2023.
